@@ -1,1 +1,2 @@
  creating another file 
+ this is line text added to file
